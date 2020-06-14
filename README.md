@@ -44,3 +44,5 @@
 In addition to the Coronavirus Analytics Jupyter Notebook, I also did some simple forecasting in Excel on 3/15/2020 to predict the number of confirmed cases and estimated date when the US would go on full lockdown.  
 
 **[US Confirmed Cases Forecasting from 2020-03-15 (Excel)](https://github.com/BrianLeip/CoronaVirus/blob/master/Covid19%20US%20Cases%20Tracking%20(Excel).xlsx)**
+
+
