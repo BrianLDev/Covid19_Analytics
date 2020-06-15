@@ -45,4 +45,3 @@ In addition to the Coronavirus Analytics Jupyter Notebook, I also did some simpl
 
 **[US Confirmed Cases Forecasting from 2020-03-15 (Excel)](https://github.com/BrianLeip/CoronaVirus/blob/master/Covid19%20US%20Cases%20Tracking%20(Excel).xlsx)**
 
-
