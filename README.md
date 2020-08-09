@@ -5,7 +5,8 @@
 - **[Covid-19 (Coronavirus) Analytics and Forecasting (Jupyter Notebook)](https://github.com/BrianLeip/CoronaVirus/blob/master/Covid19_Analytics.ipynb)**
 - [Extract, Transform, Load (ETL) Data preparation notebook for Covid-19 datasets](https://github.com/BrianLeip/CoronaVirus/blob/master/Covid19_Data_ETL.ipynb)
 ### Datasets
-- [John Hopkins University Datasets (post ETL, reformatting, and calculations such as daily change % and EWMA of daily % change)](https://github.com/BrianLeip/Covid19_Analytics/tree/master/Datasets/JH)
+- [John Hopkins University Datasets](https://github.com/BrianLeip/Covid19_Analytics/tree/master/Datasets/JH)
+- [Covid Tracking Project Datasets](https://github.com/BrianLeip/Covid19_Analytics/tree/master/Datasets/CT/)
 
 ## Data Sources
 
@@ -20,12 +21,12 @@
     - US States (cases, deaths)
     - US Counties (cases, deaths)
 
-### --PENDING-- US State Testing and Hospitalizations: Covid Tracking Project 
+### US State Testing and Hospitalizations: Covid Tracking Project 
 - Link: https://covidtracking.com/data/ 
 - **Live data:**
-    - US State testing and hopspitalization, ICU stats --PENDING--
+    - US State testing and hopspitalization, ICU stats
 - **Historic time series data:**
-    - US State testing and hopspitalization, ICU stats --PENDING--
+    - US State testing and hopspitalization, ICU stats
 
 ## Methodology:
 - Data is first gathered from various sources and then transformed into formats more conducive to EDA, analytics, and data viz with Python and various libraries like Pandas and Matplotlib
@@ -34,4 +35,3 @@
 - Data is then loaded into the Covid19_Analytics notebook for EDA, analytics, and forecasting
 - See the [Covid19_Data_ETL file](https://github.com/BrianLeip/CoronaVirus/blob/master/Covid19_Data_ETL.ipynb) for the full Extract, Transform, Load process and logic
 
-  
